@@ -25,7 +25,8 @@ button {
 
 .calculator {
   background-color: black;
-  display: inline-block;
+  display: inline-table
+  ;
   border-radius: 19px;
   padding: 20px;
 }
